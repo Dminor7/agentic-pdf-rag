@@ -1,0 +1,14 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+fastapi
+uvicorn[standard]
+docling
+qdrant-client
+sqlalchemy
+pydantic
+python-multipart
+google-genai
+langchain-google-genai
+langchain-qdrant
+langchain
+PyMuPDF
+sentence-transformers
