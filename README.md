@@ -109,7 +109,7 @@ sequenceDiagram
    ```
 
 3. **Access the Interface**:
-   Visit [http://localhost:3000](http://localhost:3000) in your browser. Upload the sample `AEL_Earnings_Presentation.pdf`, select the workspace, and begin exploring.
+   Visit [http://localhost:3000](http://localhost:3000) in your browser. Upload any [PDF](https://www.awl.in/wp-content/uploads/2026/02/Earnings-Presentation-Q3FY26.pdf), select the workspace, and begin exploring.
 
 ---
 
