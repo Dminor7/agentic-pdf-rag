@@ -4,7 +4,7 @@ A conversational agent designed to ingest dense, unstructured financial PDF docu
 
 ## What We Did (Features)
 
-This application satisfies all core objectives of the assessment and expands into the "Excellent" territory through Agentic reasoning and layout-aware chunking.
+This application satisfies below core objectives and expands into the Agentic reasoning and layout-aware chunking.
 
 1. **Ingestion & Indexing (Docling VLM Pipeline)**:
    - We utilized **Docling** powered by Gemini 3.1 Flash-Lite as a Visual Language Model (VLM) parser. It parses complex multi-column earnings decks into clean structured Markdown while retaining exact page numbers and PDF bounding box elements.
